@@ -417,3 +417,4 @@ def handle_callback(call):
 # ─── اجرا ────────────────────────────────────
 print("📰 ربات خبر MH با سیستم ژتون شروع شد...")
 bot.infinity_polling()
+
